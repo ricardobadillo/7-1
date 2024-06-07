@@ -1,0 +1,1 @@
+Repositorio para tener un esqueleto de un proyecto con el patrón 7-1 en sass
